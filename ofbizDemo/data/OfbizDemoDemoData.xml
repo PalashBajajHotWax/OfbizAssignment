@@ -19,8 +19,4 @@ under the License.
 -->
 
 <entity-engine-xml>
-    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_1"  firstName="Sample First 1" lastName="Sample Last 1" comments="This is test comment for first record."/>
-    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_2"  firstName="Sample First 2" lastName="Sample last 2" comments="This is test comment for second record."/>
-    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_3"  firstName="Sample First 3" lastName="Sample last 3" comments="This is test comment for third record."/>
-    <OfbizDemo ofbizDemoId="SAMPLE_DEMO_4"  firstName="Sample First 4" lastName="Sample last 4" comments="This is test comment for fourth record."/>
 </entity-engine-xml>

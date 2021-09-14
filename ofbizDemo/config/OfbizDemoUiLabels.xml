@@ -55,4 +55,9 @@ under the License.
     <property key="OfbizDemoLastName">
         <value xml:lang="en">Last Name</value>
     </property>
+    <property key="My Application">
+        <value xml:lang="en">TitleM</value>
+    </property>
+
+
 </resource>

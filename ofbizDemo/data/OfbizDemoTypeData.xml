@@ -19,7 +19,4 @@ under the License.
 -->
 
 <entity-engine-xml>
-    <OfbizDemoType ofbizDemoTypeId="INTERNAL" description="Internal Demo - Office"/>
-    <OfbizDemoType ofbizDemoTypeId="EXTERNAL" description="External Demo - On Site"/>
-    <OfbizDemoType ofbizDemoTypeId="EXTERNAL-1" description="External Demo - On Site1"/>
 </entity-engine-xml>
